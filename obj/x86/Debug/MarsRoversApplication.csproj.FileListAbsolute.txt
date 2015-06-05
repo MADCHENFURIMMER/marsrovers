@@ -1,0 +1,4 @@
+C:\Users\Maria\Documents\BUSQUEDATRABAJO\SwissBytes\codigo\MarsRoversApplication\bin\Debug\MarsRoversApplication.exe
+C:\Users\Maria\Documents\BUSQUEDATRABAJO\SwissBytes\codigo\MarsRoversApplication\bin\Debug\MarsRoversApplication.pdb
+C:\Users\Maria\Documents\BUSQUEDATRABAJO\SwissBytes\codigo\MarsRoversApplication\obj\x86\Debug\MarsRoversApplication.exe
+C:\Users\Maria\Documents\BUSQUEDATRABAJO\SwissBytes\codigo\MarsRoversApplication\obj\x86\Debug\MarsRoversApplication.pdb
